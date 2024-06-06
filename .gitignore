@@ -1,0 +1,8 @@
+.aider*
+venv/
+*__pycache__*
+*.env*
+*docs/AnnaPegova*
+*docs/Preco*
+*docs/Produtos*
+*docs/*.pdf
